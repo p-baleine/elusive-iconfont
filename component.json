@@ -1,0 +1,19 @@
+{
+  "name": "elusive-iconfont",
+  "repo": "p-baleine/elusive-iconfont",
+  "description": "",
+  "version": "1.5.0",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "styled": [
+    "css/elusive-webfont.css"
+  ],
+  "fonts": [
+    "font/Elusive-Icons.eot",
+    "font/Elusive-Icons.svg",
+    "font/Elusive-Icons.ttf",
+    "font/Elusive-Icons.woff"
+  ]
+}
+
