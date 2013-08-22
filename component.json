@@ -6,8 +6,8 @@
   "keywords": [],
   "dependencies": {},
   "development": {},
-  "styles": [
-    "css/elusive-webfont.css"
+  "files": [
+    "less/elusive-webfont.less"
   ],
   "fonts": [
     "font/Elusive-Icons.eot",
